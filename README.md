@@ -37,3 +37,4 @@ http://localhost:8080/register
 
 http://localhost:8080/api/sessions/current
 
+Link de prueba: https://youtu.be/1HGEA2xH5SM
