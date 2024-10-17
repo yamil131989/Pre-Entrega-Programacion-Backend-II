@@ -15,7 +15,7 @@ Desarrollar estrategias Passport para que funcione con este modelo de usuarios
 
 Implementar un sistema de login que trabaje con jwt
 
-Desarrollar una estrategia "current" (endpoint) para extraer cookie que contiene el token y con ese token obtener el usuario asociado.
+Desarrollar una estrategia "current" para extraer cookie que contiene el token y con ese token obtener el usuario asociado.
 En caso de tener token, devolver el usuario asociado.
 En caso de no tener devolver un error de passport 
 Utilizar un extractor de cookie
